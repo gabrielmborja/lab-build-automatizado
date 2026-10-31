@@ -1,6 +1,5 @@
 def soma(a: float, b: float) -> float:
-    """Soma dois números."""
-    return a + b + 1  # Coloquei um erro de propósito ! 
+    return a + b
 
 
 def subtrai(a: float, b: float) -> float:
